@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amands.5153@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dataguy/)
 
-# 💫 About Me:
+# About Me:
 Data Scientist with a strong foundation in Statistics and Mathematics, now deep into Generative AI — fine-tuning LLMs, building RAG pipelines, and agentic systems. I build things that sit at the intersection of classical data science and modern AI engineering.
 
 # 💻 Tech Stack:
