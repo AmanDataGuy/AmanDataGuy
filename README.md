@@ -1,12 +1,86 @@
-# Aman Sharma 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4731,100:52b788&height=180&section=header&text=Aman%20Sharma&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=Raleway"/>
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amands.5153@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dataguy/)
+[![Gmail](https://img.shields.io/badge/Gmail-1a4731?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amands.5153@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d6a4f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-dataguy/)
 
-# About Me:
-Data Scientist with a strong foundation in Statistics and Mathematics, now deep into Generative AI — fine-tuning LLMs, building RAG pipelines, and agentic systems. I build things that sit at the intersection of classical data science and modern AI engineering.
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td valign="top" width="58%">
+
+### 🌿 About Me
+
+Classical statistician by training, agentic AI engineer by obsession. I build multi-agent systems, fine-tune LLMs, and design RAG pipelines that actually ship.
+
+- 🤖 Building autonomous multi-agent systems
+- 🛠️ Orchestrating agents with A2A and MCP protocols
+- 📚 Deep into LLM fine-tuning, RAG & LangGraph
+- 🎓 Pursuing a Data Science Masters
+- 📐 Built on Stats and Maths, extended to LLMs
+
+</td>
+<td valign="top" width="42%">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-2d6a4f?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-1a4731?style=for-the-badge&logo=c&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-2d6a4f?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a4731?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-40916c?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-2d6a4f?style=for-the-badge&logo=huggingface&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-1a4731?style=for-the-badge&logo=mlflow&logoColor=white)
+
+**LLMs / GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1a4731?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-2d6a4f?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-40916c?style=for-the-badge&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA-52b788?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2d6a4f?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a4731?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-2d6a4f?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-1a4731?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-40916c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-2d6a4f?style=for-the-badge&logo=apachespark&logoColor=white)
+
+**Vector & Graph Databases**
+
+![Neo4j](https://img.shields.io/badge/Neo4j-1a4731?style=for-the-badge&logo=neo4j&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-2d6a4f?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-40916c?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-52b788?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a4731?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2d6a4f?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a4731?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-40916c?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2d6a4f?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:52b788,100:1a4731&height=120&section=footer"/>
